@@ -18,6 +18,3 @@ Available for freelance: Clinics, hospitals, telemedicine.
 Contact: [alishaalishlashari@gmail.com]
 
 #clinic-ai #medical-chatbot #urdu-ai #sindhi-ai #receptionist-ai #gemini #pakistan-ai #multilingual-ai #healthtech
-Basic $150 — 2 tools + English output
-Standard $350 — + Google Sheets + 3 languages
-Premium $750 — + WhatsApp + Voice
