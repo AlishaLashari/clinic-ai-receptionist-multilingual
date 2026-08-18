@@ -18,3 +18,6 @@ Available for freelance: Clinics, hospitals, telemedicine.
 Contact: [alishaalishlashari@gmail.com]
 
 #clinic-ai #medical-chatbot #urdu-ai #sindhi-ai #receptionist-ai #gemini #pakistan-ai #multilingual-ai #healthtech
+
+### License
+MIT License — Free for learning. For commercial clinic use, please contact for setup & support.
